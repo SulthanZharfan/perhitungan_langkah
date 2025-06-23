@@ -29,7 +29,7 @@ Inspirasi dari aplikasi ini datang dari kebutuhan untuk menjaga kebugaran dan me
 
    - Jika pengguna menyetujui, aplikasi mulai membaca langkah
 
-   = Jika menolak, aplikasi menampilkan pesan error
+   - Jika menolak, aplikasi menampilkan pesan error
 
 3. Mulai Penghitungan
 
